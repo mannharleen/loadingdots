@@ -1,0 +1,19 @@
+{
+  "name": "loadingdots",
+  "version": "1.0.0",
+  "description": "Show dots like \".....\" on the console window while the promise is pending. Stop the dots once promise resolves.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test\\test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mannharleen/loadingdots.git"
+  },
+  "author": "harleen mann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mannharleen/loadingdots/issues"
+  },
+  "homepage": "https://github.com/mannharleen/loadingdots#readme"
+}
