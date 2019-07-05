@@ -19,13 +19,15 @@ Starting p4............... Finished p4
 
 ## Usage
 
-For a promise named promiseX, 
+### For a promise named promiseX, 
 
+#### using then-catch
 ```javascript
 startLoadingDots('p1');
 promiseX.then( d => stopLoadingDots('p1'))
 ```
 
+#### using async await
 ```javascript
 startLoadingDots('p1');
 await promiseX
@@ -33,3 +35,6 @@ stopLoadingDots('p1')
 ```
 
 ## Credits
+```
+https://www.linkedin.com/in/harleenmann1/
+```

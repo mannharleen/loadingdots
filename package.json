@@ -1,5 +1,5 @@
 {
-  "name": "loadingdots",
+  "name": "@mannharleen/loadingdots",
   "version": "1.0.0",
   "description": "Show dots like \".....\" on the console window while the promise is pending. Stop the dots once promise resolves.",
   "main": "index.js",
